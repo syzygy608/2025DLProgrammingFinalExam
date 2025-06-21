@@ -5,5 +5,3 @@ matplotlib
 scikit-learn
 seaborn
 Pillow
-opencv-python
-tensorflow_addons
